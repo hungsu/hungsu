@@ -1,3 +1,5 @@
+![Hello screen reader! This is Fenneko from the amazing Netflix show, Aggretsuko](https://github.com/hungsu/hungsu/blob/main/laugh-aggretsuko.gif)
+
 ### Hi there 👋
 
 <!--
